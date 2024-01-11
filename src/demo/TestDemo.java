@@ -30,4 +30,22 @@ public class TestDemo {
 
 	//Today is Wednesday
 
+
+		public void add3(int a, int b) {
+		System.out.println(a + b);
+	}
+	// Test 1 2 3
+
+	String firstName = "John";
+	String lastName = "Cenao";
+	
+	public static void getInfo1() {
+		System.out.println("Country: USA");
+	}
+	
+	
+	public static void divide2() {
+		System.out.println("2/2");
+	}
+
 }
