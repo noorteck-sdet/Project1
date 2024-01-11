@@ -15,4 +15,10 @@ public class TestDemo {
 		System.out.println(a + b);
 	}
 	// Test 1 2 3
+	String firstName = "John";
+	String lastName = "Cenao";
+	
+	public static void getInfo() {
+		System.out.println("Country: USA");
+	}
 }
