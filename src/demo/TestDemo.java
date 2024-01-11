@@ -48,4 +48,8 @@ public class TestDemo {
 		System.out.println("2/2");
 	}
 
+		public static void divide23() {
+		System.out.println("2/2");
+	}
+
 }
