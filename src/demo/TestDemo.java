@@ -15,6 +15,7 @@ public class TestDemo {
 		System.out.println(a + b);
 	}
 	// Test 1 2 3
+
 	String firstName = "John";
 	String lastName = "Cenao";
 	
@@ -26,5 +27,7 @@ public class TestDemo {
 	public static void divide() {
 		System.out.println("2/2");
 	}
-	
+
+	//Today is Wednesday
+
 }
