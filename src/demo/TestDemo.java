@@ -50,4 +50,8 @@ public class TestDemo {
 	
 	
 
+		public static void divide23() {
+		System.out.println("2/2");
+	}
+
 }
