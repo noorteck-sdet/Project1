@@ -47,5 +47,7 @@ public class TestDemo {
 	public static void divide2() {
 		System.out.println("2/2");
 	}
+	
+	
 
 }
