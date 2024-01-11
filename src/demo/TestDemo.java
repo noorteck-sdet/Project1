@@ -11,8 +11,6 @@ public class TestDemo {
 		System.out.println("TOday is not Tuesday..");
 	}
 
-	//This is coming from GitHub
-	//Today is Friday
-	
+	String firstName = "Abc";
 	//Test 1 2 3
 }
