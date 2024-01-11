@@ -21,4 +21,10 @@ public class TestDemo {
 	public static void getInfo() {
 		System.out.println("Country: USA");
 	}
+	
+	
+	public static void divide() {
+		System.out.println("2/2");
+	}
+	
 }
