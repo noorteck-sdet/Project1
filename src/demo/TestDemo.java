@@ -11,8 +11,8 @@ public class TestDemo {
 		System.out.println("TOday is not Tuesday..");
 	}
 
-	//This is coming from GitHub
-	//Today is Friday
-	
+	public void add(int a, int b) {
+		System.out.println(a + b);
+	}
 	//Test 1 2 3
 }
